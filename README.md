@@ -12,7 +12,7 @@
 
 - 😄 I am currently working on some personal projects that I am passionate about to build my full-stack development skills!
 
-- 👨‍💻 All of my public projects are available at [https://github.com/IAmBatJew](https://github.com/IAmBatJew)
+- 👨‍💻 All of my public projects are available at [https://github.com/Aaron-Garrett](https://github.com/Aaron-Garrett)
 
 - 💻 Check out my first passion-build website: [BatJew Apologetics](https://IAmBatJew.github.io)
 
