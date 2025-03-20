@@ -1,4 +1,4 @@
-# Hi there 👋 I'm BatJew. Here's a bit about me!
+# Hi there 👋 I'm Aaron. Here's a bit about me!
 
 ## Professional Information
 
