@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my public projects are available at [https://github.com/Aaron-Garrett](https://github.com/Aaron-Garrett)
 
-- 💻 Check out my first passion-build website: [BatJew Apologetics](https://IAmBatJew.github.io)
+- 💻 Check out my first passion-build website: [BatJew Apologetics](https://aaron-garrett.github.io/batjew_apologetics/)
 
-- Check out my photography website: [BatJew Media](https://IAmBatJew.github.io/batjew-photography)
+- Check out my photography website: [BatJew Media](https://aaron-garrett.github.io/batjew-photography/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
