@@ -2,21 +2,21 @@
 
 ## Professional Information
 
-- 🔭 I am currently a Solutions Architect at Eli Lilly!
+- 🏗️ I am currently a Solutions Architect at Eli Lilly!
 
-- 🌱 I’m currently learning **AWS Lambda, Glue, React.js, Python, Node.js**
+- 🧠 I’m currently learning **AWS Lambda, Glue, React.js, Python, Node.js**
 
 - 💬 Ask me about **AWS Cloud Formation templates, CloudFormation Guard, Cloud Financial Management, Python web development, React.js front-end development**
 
 ## Personal Information
 
-- 😄 I am currently working on some personal projects that I am passionate about to build my full-stack development skills!
+- :octocat: I am currently working on some personal projects that I am passionate about to build my full-stack development skills!
 
 - 👨‍💻 All of my public projects are available at [https://github.com/Aaron-Garrett](https://github.com/Aaron-Garrett)
 
 - 💻 Check out my first passion-build website: [BatJew Apologetics](https://aaron-garrett.github.io/batjew_apologetics/)
 
-- Check out my photography website: [BatJew Media](https://aaron-garrett.github.io/batjew-photography/)
+- 📷 Check out my photography website: [BatJew Media](https://aaron-garrett.github.io/batjew-photography/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
